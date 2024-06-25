@@ -1,0 +1,49 @@
+.program-offerings {
+  padding: 50px 20px;
+  margin: 0 20px; /* Add this line */
+  background: #f9f9f9;
+}
+
+.program-grid {
+  display: grid;
+  grid-template-columns: repeat(1, 1fr);
+  gap: 20px;
+}
+
+@media screen and (min-width: 600px) {
+  .program-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media screen and (min-width: 900px) {
+  .program-grid {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+
+.program-card {
+  background: white;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  text-align: center;
+} 
+
+.program-card img {
+  width: 100%;
+  border-radius: 10px;
+  object-fit: cover; /* Ensures the image covers the entire space */
+}
+
+.program-card h3 {
+  margin-top: 10px;
+}
+
+.program-card p {
+  margin-top: 5px;
+}
+
+h2 {
+  text-align: center;
+}

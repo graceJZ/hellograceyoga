@@ -1,0 +1,16 @@
+.contact-section {
+    padding: 50px 20px;
+    background: #fff;
+  }
+  
+  .contact-info {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .contact-info div {
+    margin: 10px 0;
+    font-size: 1.2rem;
+  }
+  
