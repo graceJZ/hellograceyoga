@@ -1,8 +1,15 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta http-equiv="refresh" content="0; URL=/" />
+    <meta charset="utf-8">
+    <meta http-equiv="refresh" content="0; URL=/#/404?redirected_from=" />
   </head>
   <body>
+    <script>
+      // Redirect to index.html with a hash
+      const pathname = window.location.pathname;
+      const redirectUrl = '/#' + pathname;
+      window.location.replace(redirectUrl);
+    </script>
   </body>
 </html>
