@@ -1,6 +1,5 @@
 import React from 'react';
-//import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
-import { HashRouter as Router, Route, Routes } from 'react-router-dom';
+import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 import Intro from './components/Intro';
 import Programs from './components/Programs';
 import Contact from './components/Contact';
@@ -11,8 +10,8 @@ const App = () => {
     return (
         <Router>
             <div className="App">
-                <Routes>                    
-                <Route path="/" element={
+                <Routes>
+                    <Route path="/" element={
                         <>
                             <Intro />
                             <Programs />
