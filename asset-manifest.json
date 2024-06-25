@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/hellograceyoga/static/css/main.1f7912f4.css",
-    "main.js": "/hellograceyoga/static/js/main.f4d677cd.js",
-    "static/js/453.88ec790e.chunk.js": "/hellograceyoga/static/js/453.88ec790e.chunk.js",
-    "index.html": "/hellograceyoga/index.html",
-    "main.1f7912f4.css.map": "/hellograceyoga/static/css/main.1f7912f4.css.map",
-    "main.f4d677cd.js.map": "/hellograceyoga/static/js/main.f4d677cd.js.map",
-    "453.88ec790e.chunk.js.map": "/hellograceyoga/static/js/453.88ec790e.chunk.js.map"
+    "main.css": "/static/css/main.1f7912f4.css",
+    "main.js": "/static/js/main.9767757f.js",
+    "static/js/453.88ec790e.chunk.js": "/static/js/453.88ec790e.chunk.js",
+    "index.html": "/index.html",
+    "main.1f7912f4.css.map": "/static/css/main.1f7912f4.css.map",
+    "main.9767757f.js.map": "/static/js/main.9767757f.js.map",
+    "453.88ec790e.chunk.js.map": "/static/js/453.88ec790e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1f7912f4.css",
-    "static/js/main.f4d677cd.js"
+    "static/js/main.9767757f.js"
   ]
 }
