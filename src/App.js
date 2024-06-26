@@ -4,6 +4,7 @@ import Intro from './components/Intro';
 import Programs from './components/Programs';
 import Contact from './components/Contact';
 import YogaModule from './components/YogaModule';
+import Class from './components/Class';
 
 
 const App = () => {
@@ -19,6 +20,7 @@ const App = () => {
                         </>
                     } />
                     <Route path="/yoga/:yoga_id" element={<YogaModule />} />
+                    <Route path="/class/:class_id" element={<Class />} />
                 </Routes>
             </div>
         </Router>
