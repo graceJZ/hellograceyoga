@@ -36,7 +36,7 @@ const Class = () => {
     }
 
     const {
-        yoga_id,name, start_date, end_date, sessions,
+        yoga_id,name, sessions,
         street_1, street_2, city, state, zipcode, fee,
         phone, email,description,guidelines,prerequisites,video
     } = classInfo;
@@ -46,8 +46,8 @@ const Class = () => {
     return (
         <div className="yoga-class">
 
-        <h1> Suriya Kriya</h1>
-            <p> {start_date} - {end_date}</p>
+        <h1> {name} </h1>
+        <img src="https://raw.githubusercontent.com/graceJZ/hellograceimages/main/spandahall-banner.svg" alt="spandahall banner" />
 
         <div className="container">
             
@@ -84,8 +84,6 @@ const Class = () => {
 
                 <img src="https://raw.githubusercontent.com/graceJZ/hellograceimages/main/divider-yoga.svg" alt="divider yoga" />
 
-
-                <h4>{name}</h4>
                 <p>
                     <FaCalendarAlt className="icon" />
                     {sessions.split('\n').map((line, index) => (

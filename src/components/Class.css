@@ -6,11 +6,13 @@
 }
 .yoga-class h1{
     color: #006d6a;
-    margin-left: 3%;
+    text-align: center;
+
 }
 
 .yoga-class p{
-    margin-left: 3%;
+    text-align: center;
+
 }
 
 
@@ -28,6 +30,11 @@
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
+.yoga-details p{
+    text-align: left;
+
+}
+
 .class-details {
     background-color: #fff;
     padding: 20px;
@@ -35,12 +42,13 @@
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     position: sticky;
     top: 20px;
-    align-self: start; /* Ensure it starts at the top of the container */
 }
 
 /* Media query for tablets and mobile devices */
 @media (max-width: 1024px) {
     .container {
+        display: flex;
+        flex-direction: column;
         display: flex;
         flex-direction: column;
         align-items: center; /* Center items horizontally */
@@ -50,10 +58,12 @@
         order: -1; /* Move .class-details to the top */
         position: static; /* Remove the sticky positioning */
         margin-bottom: 20px; /* Add some space between the sections */
+        align-items: center;
     }
 
     .yoga-details {
         order: 0; /* Ensure .yoga-details is below .class-details */
+        align-items: center;
     }
 }
 
@@ -74,7 +84,8 @@
 .class-details p {
     margin: 10px 10px;
     display: flex;
-    align-items: center;
+    align-items: left;
+    text-align: left;
 }
 
 .class-details img {
@@ -131,4 +142,11 @@
 
 .links a:hover {
     text-decoration: underline;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: auto;
 }
