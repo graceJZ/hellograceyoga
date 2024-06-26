@@ -96,8 +96,8 @@ const Class = () => {
                 <p>
                     <FaMapMarkerAlt className="icon" />
                     <a href={googleMapLink} target="_blank" rel="noopener noreferrer">
-                        {street_1 && <div>{street_1}</div>}
-                        {street_2 && <div>{street_2}</div>}
+                        {/* {street_1 && <div>{street_1}</div>}
+                        {street_2 && <div>{street_2}</div>} */}
                         {city && <div>{city}</div>}
                         {state && <div>{state}</div>}
                         {zipcode && <div>{zipcode}</div>}
