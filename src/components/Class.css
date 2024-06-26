@@ -49,15 +49,11 @@
     .class-details {
         order: -1; /* Move .class-details to the top */
         position: static; /* Remove the sticky positioning */
-        width: 100%;
-        max-width: 600px; /* Adjust max-width as needed */
         margin-bottom: 20px; /* Add some space between the sections */
     }
 
     .yoga-details {
         order: 0; /* Ensure .yoga-details is below .class-details */
-        width: 100%;
-        max-width: 600px; /* Adjust max-width as needed */
     }
 }
 
