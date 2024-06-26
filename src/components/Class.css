@@ -6,12 +6,17 @@
 }
 .yoga-class h1{
     color: #006d6a;
+    margin-left: 3%;
+}
+
+.yoga-class p{
+    margin-left: 3%;
 }
 
 
 .container {
     display: grid;
-    grid-template-columns: 1fr 300px; /* Main content on the left, fixed width on the right */
+    grid-template-columns: 1fr 350px; /* Main content on the left, fixed width on the right */
     gap: 20px; /* Space between the columns */
     padding: 20px;
 }
@@ -24,7 +29,6 @@
 }
 
 .class-details {
-
     background-color: #fff;
     padding: 20px;
     border-radius: 8px;
@@ -32,13 +36,29 @@
     position: sticky;
     top: 20px;
     align-self: start; /* Ensure it starts at the top of the container */
+}
 
-    width: 100%;
-    max-width: 350px; /* Mobile width */
-    margin: 20px auto;
+/* Media query for tablets and mobile devices */
+@media (max-width: 1024px) {
+    .container {
+        display: flex;
+        flex-direction: column;
+        align-items: center; /* Center items horizontally */
+    }
 
-    border: 1px solid #ddd;
- 
+    .class-details {
+        order: -1; /* Move .class-details to the top */
+        position: static; /* Remove the sticky positioning */
+        width: 100%;
+        max-width: 600px; /* Adjust max-width as needed */
+        margin-bottom: 20px; /* Add some space between the sections */
+    }
+
+    .yoga-details {
+        order: 0; /* Ensure .yoga-details is below .class-details */
+        width: 100%;
+        max-width: 600px; /* Adjust max-width as needed */
+    }
 }
 
 .class-details h1 {
@@ -105,6 +125,7 @@
 
 .links {
     margin-top: 20px;
+    margin-left:3%
 }
 
 .links a {

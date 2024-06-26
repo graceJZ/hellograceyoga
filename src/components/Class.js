@@ -64,7 +64,7 @@ const Class = () => {
                     <a href={video} target="_blank" rel="noopener noreferrer">Watch Video</a> | <a href={ReadMoreLink}>Read More</a>
                 </div>
 
-            <h3>Class Guidelines</h3>
+            <h3>Guidelines</h3>
             <div>
                 {guidelines.split('\n').map((line, index) => (
                     <p key={index}>{line}</p>
