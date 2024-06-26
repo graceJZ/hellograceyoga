@@ -18,7 +18,7 @@ const App = () => {
                             <Contact />
                         </>
                     } />
-                    <Route path="/module/:module_id" element={<YogaModule />} />
+                    <Route path="/yoga/:yoga_id" element={<YogaModule />} />
                 </Routes>
             </div>
         </Router>
