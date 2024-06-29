@@ -28,7 +28,14 @@
   border-radius: 10px;
   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
   text-align: center;
+  color:inherit;
+  text-decoration: none;
+  transition: transform 0.3s;
 } 
+
+.program-card:hover {
+  transform: scale(1.05);
+}
 
 .program-card img {
   width: 100%;
@@ -40,10 +47,10 @@
   margin-top: 10px;
 }
 
-.program-card p {
-  margin-top: 5px;
-}
-
 h2 {
   text-align: center;
+}
+
+.program-card p {
+  margin-top: 5px;
 }

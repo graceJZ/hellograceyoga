@@ -1,4 +1,4 @@
-/* YogaModule.css */
+/* Yoga.css */
 .yoga-module {
     padding: 20px;
     max-width: 900px;
@@ -16,16 +16,19 @@
 .yoga-module h1 {
     margin-bottom: 20px;
     text-align: center;
+    color: #006d6a;
 }
 
 .yoga-module h2 {
     text-align: center;
     margin-top: 4%;
+
 }
 
 .yoga-module h3 {
     text-align: center;
     margin-top: 20px;
+    color: gray;
 }
 
 .yoga-module ul {

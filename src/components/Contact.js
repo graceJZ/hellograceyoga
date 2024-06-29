@@ -8,7 +8,7 @@ const Contact = () => {
       <h2>Contact Us</h2>
       <div className="contact-info">
         <div><FaPhone /> +1 412-862-5007</div>
-        <div><FaEnvelope /> hellograceyoga@gmail.com</div>
+        <div><FaEnvelope /> info@hellograceyoga.com</div>
         <div><FaMapMarkerAlt /> Pittsburgh, Pennsylvania, USA</div>
         <div><FaInstagram /> @hello.grace.yoga</div>
         <div><FaFacebook /> @hellograceyoga</div>

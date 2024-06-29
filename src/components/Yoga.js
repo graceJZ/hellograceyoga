@@ -1,8 +1,8 @@
 import React, { useEffect, useState } from 'react';
 import { useParams } from 'react-router-dom';
-import './YogaModule.css'; // Import the CSS file
+import './Yoga.css'; // Import the CSS file
 
-const YogaModule = () => {
+const Yoga = () => {
     const [module, setModule] = useState(null);
     const { yoga_id } = useParams();
 
@@ -61,22 +61,20 @@ const YogaModule = () => {
             </div>
             <img src="https://raw.githubusercontent.com/graceJZ/hellograceimages/main/divider-yoga.svg" alt="divider yoga" />
 
-            <div className="video-container">
-                <iframe
-                    src={module.video}
-                    frameBorder="0"
-                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                    allowFullScreen
-                    title="Promotion Video"
-                ></iframe>
-            </div>
-
-            <img src="https://raw.githubusercontent.com/graceJZ/hellograceimages/main/divider-yoga.svg" alt="divider yoga" />
-
-
+            {module.video && (
+                <div className="video-container">
+                    <iframe
+                        src={module.video}
+                        frameBorder="0"
+                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                        allowFullScreen
+                        title="Promotion Video"
+                    ></iframe>
+                </div>
+            )}
         </div>
 
     );
 };
 
-export default YogaModule;
+export default Yoga;

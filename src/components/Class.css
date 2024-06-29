@@ -3,10 +3,16 @@
     display: block;
     margin-left: auto;
     margin-right: auto;
+    text-align: center;
 }
 .yoga-class h1{
     color: #006d6a;
     text-align: center;
+
+}
+
+.yoga-class h4{
+    color: gray;
 
 }
 
@@ -71,7 +77,6 @@
 }
 
 .class-details h1 {
-    font-size: 24px;
     margin-bottom: 10px;
     margin-left: auto;
     margin-right: auto;
@@ -79,7 +84,6 @@
 }
 
 .class-details h4 {
-    font-size: 20px;
     margin-bottom: 10px;
     margin-left: 5%;
 }
@@ -87,8 +91,9 @@
 .class-details p {
     margin: 10px 10px;
     display: flex;
-    align-items: left;
+    align-items: center;
     text-align: left;
+    gap:1em;
 }
 
 .class-details img {
@@ -134,8 +139,8 @@
 }
 
 .links {
-    margin-top: 20px;
-    margin-left:3%
+    margin-top: 1em;
+    text-align: left;
 }
 
 .links a {

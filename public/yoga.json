@@ -1,11 +1,56 @@
 [
     {
+        "yoga_id": "upa-yoga",
+        "name": "Upa Yoga",
+        "tagline": "Gentle Yoga, Start Your Journey",
+        "description": "Upa-Yoga is a simple yet powerful set of ten practices that activate the joints, muscles and energy system, bringing ease to the whole system. It is a good starting point for those who are new to yoga, and can be used as a preparation for other yoga practices. Based on a sophisticated understanding of the body’s mechanics.",
+        "video": "https://www.youtube.com/embed/tVZcK9pjI9I",
+        "benefits": "Relieving physical stress and tiredness\nExercising the joints and muscles\nRejuvenating the body after a period of inactivity\nNegating the effect of jet lag and long travel",
+        "image_url": "https://raw.githubusercontent.com/graceJZ/hellograceimages/main/1.UpaYoga.jpeg"
+    },
+    {
         "yoga_id": "surya-kriya",
         "name": "Surya Kriya",
-        "tagline": "Meditation in Motion, an Acient and Potent Yogic Practice",
+        "tagline": "Meditation in Motion, an Ancient and Potent Yogic Practice",
         "description": "Surya Kriya is a potent yogic practice of tremendous antiquity, designed as a holistic process for health, wellness, and complete inner wellbeing. “Surya” means “sun,” and “kriya” means “inner energy process.” Surya Kriya activates the solar plexus to raise the samat prana, or solar heat, in the system. It also balances a person’s left and right energy channels, leading to stability of the body and stillness of the mind. This strong foundation becomes the basis to explore higher dimensions of life.\n\nTraditionally available only to select groups of yogis, Surya Kriya is being offered by Sadhguru as a comprehensive spiritual practice that is ideal for the hectic pace of today’s world.",
-        "video": "https://www.youtube.com/embed/UccxdrQCL-M",
+        "video": "https://www.youtube.com/embed/_wq-OiPk-pU",
         "benefits": "Develops mental clarity and focus\nRemedies weak constitutions\nBoosts vigor and vitality\nBalances hormonal levels in the body\nPrepares one for deeper states of meditation",
         "image_url": "https://raw.githubusercontent.com/graceJZ/hellograceimages/main/4.SuriyaKriya.jpg"
+    },
+    {
+        "yoga_id": "bhuta-shuddhi",
+        "name": "Bhuta Shuddhi",
+        "tagline": "Cleansing Yoga, Purification of the Elements",
+        "description": "The basis for all creation, including the physical body, is the group of five elements: earth, water, wind, fire, and space. The wellbeing of the body and mind can be established by purifying these five elements within the human system. This process also shapes the body into a stepping stone towards one’s ultimate wellbeing.\nThere is a whole system of yoga called Bhuta Shuddhi, which means “purification of the elements.” The Bhuta Shuddhi processes offered by Isha provide a unique opportunity for everyone to benefit from this esoteric yogic science, which otherwise requires intense sadhana (spiritual practices).",
+        "video": "https://www.youtube.com/embed/hc9g8u77g24",
+        "benefits": "Keeps the system in harmony and balance\nPrepares the system to handle powerful states of energy\nEnhances the capabilities of the physical body, mind, and energy system\nCreates the basis to gain complete mastery over the human system",
+        "image_url": "https://raw.githubusercontent.com/graceJZ/hellograceimages/main/2.BhutaShuddhi.jpeg"
+    },
+    {
+        "yoga_id": "angamardana",
+        "name": "Angamardana",
+        "tagline": "Fitness Yoga, Complete Mastery of the Limbs",
+        "description": "Angamardana, a fitness system rooted in yoga, offers everyone the opportunity to invigorate the body and reach peak physical and mental health. “Angamardana” means gaining complete mastery over the limbs, organs, and other parts of the body. True to its name, this practice revitalizes the body on all levels including the muscles, circulatory system, skeletal structure, nervous system, and the basic energy system.\nWith exercises carefully selected by Sadhguru to be of universal appeal and application, Angamardana needs no fitness equipment. It uses only the body and can be practiced anywhere, even during travel.",
+        "video": "https://www.youtube.com/embed/9aAzFTQOJJU",
+        "benefits": "Strengthening the spine, skeletal and muscular systems\nBuilding physical strength and fitness\nInvigorating the body, bringing a sense of lightness and freedom\nPreparing the body for hatha yoga",
+        "image_url": "https://raw.githubusercontent.com/graceJZ/hellograceimages/main/3.Angarmadana.jpg"
+    },
+    {
+        "yoga_id": "yogasanas",
+        "name": "Yogasanas",
+        "tagline": "Stillness Through Postures, Reach Higher Level of Conciousness",
+        "description": "The word asana literally means a posture. Out of the innumerable asanas a body can assume, 84 have been identified as Yogasanas, through which one can transform the body and mind into a possibility for ultimate well-being. Yogasanas are not exercises, but rather very subtle processes to manipulate one’s energy in a particular direction. Hatha Yoga is offered as a set of 36 powerful postures, or yogasanas, to enable the system to sustain higher dimensions of energy.\nIn an untrained state, the human body is a constant manifestation of various levels of compulsiveness. By consciously forming the body into a certain posture, one creates a conducive passage for energy flow that can elevate one’s consciousness. Yogasanas are a way of aligning the inner system and adjusting it to the celestial geometry, thereby becoming in sync with the existence and naturally achieving a chemistry of healthfulness, joyfulness, blissfulness, and above all, balance.",
+        "video": "https://www.youtube.com/embed/4ZdcGKUQufU",
+        "benefits": "Relief of chronic health conditions\nEvolution of body and mind towards a higher possibility\nStabilization of the body, mind, and energy system\nDeceleration of the aging process",
+        "image_url": "https://raw.githubusercontent.com/graceJZ/hellograceimages/main/5.Yogasanas.jpg"
+    },
+    {
+        "yoga_id": "yoga-for-children",
+        "name": "Yoga for Children",
+        "tagline": "Grow with Yoga: Fun, Love, Joy",
+        "description": "Hatha Yoga for Children structured by Sadhguru offers a unique possibility for every child to experience a joyful blossoming of their natural potential. The program introduces yoga to children, led through an exploration of fun, love and joy, allowing each child to develop and live in optimal health and inner peace.",
+        "video": null,
+        "benefits": "Enhances concentration and memory, focus, and mind/body coordination.\nHelps in preventing obesity, asthma, sinusitis and other chronic ailments.\nLeads to wellbeing and the proper development of body and mind.",
+        "image_url": "https://raw.githubusercontent.com/graceJZ/hellograceimages/main/6.Children.jpg"
     }
 ]
