@@ -1,17 +1,14 @@
 /* src/Contact.css */
 .contact-us {
-  padding: 20px;
   background: #f9f9f9;
   margin: 0px 20px;
+  padding: 20px;
 }
 
 .contact-container {
   display: grid;
   grid-template-columns: 1fr 300px;
   padding: 20px;
-  margin-top: 0px;
-  margin-left:0px;
-  margin-right:20px;
   gap: 20px;
 }
 
@@ -24,6 +21,8 @@
 
 .contact-form {
   min-width: 300px;
+  margin: 0px;
+
 }
 
 .contact-info {
@@ -31,7 +30,6 @@
   flex-direction: column;
   gap: 1em;
   align-items: center;
-  min-width: 300px;
 }
 
 .contact-info h3 {
@@ -47,11 +45,16 @@
   gap: 1em;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 800px) {
   .contact-container {
     grid-template-columns: 1fr;
     align-items: center;
     display: flex;
     flex-direction: column;
+  }
+  .contact-form {
+    min-width: 100%;
+    align-items: center;
+    display: block;
   }
 }
