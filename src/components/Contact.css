@@ -48,5 +48,7 @@
   .contact-container {
     grid-template-columns: 1fr;
     align-items: center;
+    display: flex;
+    flex-direction: column;
   }
 }
