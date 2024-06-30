@@ -1,16 +1,50 @@
-.contact-section {
-    padding: 50px 20px;
-    background: #fff;
+/* src/Contact.css */
+.contact-us {
+  padding: 20px;
+  max-width: 1200px;
+  margin: 0 20px;
+  background: #f9f9f9;
+}
+
+.contact-container {
+  display: grid;
+  grid-template-columns: 1fr 300px;
+  gap: 20px;
+}
+
+.card {
+  background: #fff;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  padding: 20px;
+}
+
+.contact-form {
+  min-width: 400px;
+}
+
+.contact-info {
+  display: flex;
+  flex-direction: column;
+  gap: 1em;
+  align-items: center;
+}
+
+.contact-info h3 {
+  border-radius: 10px; /* Adjust the radius as needed */
+  padding: 10px; /* Add some padding to ensure the text doesn't touch the edges */
+  border: 2px solid #006d6a;
+  color: #006d6a;
+  background-color: white;
+}
+
+.contact-info div {
+  display: flex;
+  gap: 1em;
+}
+
+@media (max-width: 768px) {
+  .contact-container {
+    grid-template-columns: 1fr;
   }
-  
-  .contact-info {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-  }
-  
-  .contact-info div {
-    margin: 10px 0;
-    font-size: 1.2rem;
-  }
-  
+}

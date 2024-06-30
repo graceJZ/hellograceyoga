@@ -1,0 +1,57 @@
+/* src/CustomForm.css */
+.custom-form {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
+.form-group {
+  display: flex;
+  flex-direction: column;
+}
+
+.form-group input[type="email"] {
+  width: 15em; /* Adjust the width as needed */
+}
+
+.form-group input[type="tel"] {
+  width: 15em; /* Adjust the width as needed */
+}
+
+
+.form-group textarea {
+  width: 90%;
+  overflow-y: auto; /* Allows scrolling if text exceeds the textarea height */
+  font-family: 'Quicksand', sans-serif; 
+  font-size: 16px;
+}
+
+
+.form-group label {
+  margin-bottom: 5px;
+}
+
+.form-group input {
+  padding: 10px;
+  font-size: 16px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  font-family: 'Quicksand', sans-serif; 
+}
+
+.submit-button {
+  padding: 0.75em;
+  color: #fff;
+  background-color: #006d6a;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  width: 8em; /* Adjust the width as needed */
+  font-family: 'Quicksand', sans-serif; 
+  font-size: medium;
+  font-weight: bold;
+}
+
+.submit-button:hover {
+  background-color: #004f4d;
+}

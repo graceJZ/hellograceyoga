@@ -5,7 +5,7 @@ import Offerings from './components/Offerings';
 import Contact from './components/Contact';
 import Yoga from './components/Yoga';
 import Class from './components/Class';
-import FutureClass from './components/FutureClass';
+import FutureClass from './components/FutureClass'; 
 
 
 const App = () => {

@@ -1,13 +1,13 @@
 .intro-section {
   height: 90vh;
-  width: 90%; /* Set the width to 60% */
+  width: 90%;
   margin: 0 auto; /* Center the element */
   background-size: cover;
   background-position: center;
   display: flex;
   align-items: center;
   justify-content: center;
-  color: white;
+  color: #f9f9f9;
   position: relative;
   border-radius: 10px;
   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
