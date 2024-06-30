@@ -57,4 +57,9 @@
     align-items: center;
     display: block;
   }
+  .contact-info {
+    min-width: 100%;
+    align-items: center;
+    display: block;
+  }
 }
