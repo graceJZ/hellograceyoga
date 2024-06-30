@@ -1,14 +1,17 @@
 /* src/Contact.css */
 .contact-us {
   padding: 20px;
-  max-width: 1200px;
-  margin: 0 20px;
   background: #f9f9f9;
+  margin: 0px 20px;
 }
 
 .contact-container {
   display: grid;
   grid-template-columns: 1fr 300px;
+  padding: 20px;
+  margin-top: 0px;
+  margin-left:0px;
+  margin-right:20px;
   gap: 20px;
 }
 
