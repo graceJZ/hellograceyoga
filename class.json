@@ -1,5 +1,26 @@
 [
     {
+        "class_id": "test",
+        "yoga_id": "upa-yoga",
+        "name": "Upa Yoga",
+        "start_date": "2024-01-01T12:00:00Z",
+        "end_date": "2024-01-01T00:00:00Z",
+        "sessions": "Mon, Jan 1st, 8:00 AM - 11:30 AM\nMon, Jan 1st, 4:30 PM - 8:00 PM",
+        "street_1": "51 Midway Dr",
+        "street_2": null,
+        "city": "Mc Kees Rocks",
+        "state": "Pennsylvania",
+        "zipcode": "15136",
+        "fee": 1,
+        "phone": "412-862-5007",
+        "email": "info@hellograceyoga.com",
+        "description": "Upa-Yoga is a simple yet powerful set of ten practices that activate the joints, muscles and energy system, bringing ease to the whole system. It is a good starting point for those who are new to yoga, and can be used as a preparation for other yoga practices. Based on a sophisticated understanding of the body’s mechanics.",
+        "guidelines": "Due to the nature of the practices, we request you to maintain an empty stomach condition when you come for the session. There should be a gap of:\n-4 hours from the last full meal\n-2.5 hours from the last snack\n-1.5 hours from the last beverage (excluding water)\n\nDue to the nature of this practice, there are some precautions. People who fall under any of the below categories are not eligible to participate at this time:\n-Women who are currently pregnant\n-Anyone who has had a major open surgery in the last 6 months\n-Anyone who has had laproscopic surgery within the last 6 weeks\n\nAs a general note, always consult and follow your doctor's advice. If you have any questions regarding your participation, please contact us.",
+        "prerequisites": "Anyone above 14 years of age can attend. No previous experience of yoga required.",
+        "video": "https://www.youtube.com/embed/tVZcK9pjI9I",
+        "payment_link_id": "eVa6rz5qd3Mbdji8wx"
+    },
+    {
         "class_id": "20240727surya-kriya",
         "yoga_id": "surya-kriya",
         "name": "Surya Kriya",
@@ -17,7 +38,8 @@
         "description": "Traditionally available only to select groups of yogis, Surya Kriya is being offered by Sadhguru as a comprehensive spiritual practice that is ideal for the hectic pace of today's world.\n\n\"Surya\" means \"sun\", and \"Kriya\" means \"inner energy process\". It is a gentle, slow-paced, 21-step process and is a way of aligning yourself with the sun, the basic powerhouse for this planet. All life on this planet is solar powered, including yourself.\n\nSurya Kriya is an ancient, potent yogic practice that raises the solar heat in the system. It also balances your energy channels, leading to stability of the body and stillness of the mind.",
         "guidelines": "Due to the nature of the practices, we request you to maintain an empty stomach condition when you come for the session. There should be a gap of:\n-4 hours from the last full meal\n-2.5 hours from the last snack\n-1.5 hours from the last beverage (excluding water)\n\nDue to the nature of this practice, there are some precautions. People who fall under any of the below categories are not eligible to participate at this time:\n-Women who are currently pregnant\n-Anyone who has had a major open surgery in the last 6 months\n-Anyone who has had laproscopic surgery within the last 6 weeks\n\nAs a general note, always consult and follow your doctor's advice. If you have any questions regarding your participation, please contact us.",
         "prerequisites": "Anyone above 14 years of age can attend. No previous experience of yoga required.",
-        "video": "https://www.youtube.com/embed/_wq-OiPk-pU"
+        "video": "https://www.youtube.com/embed/_wq-OiPk-pU",
+        "payment_link_id": "fZeg29g4RbeD9327su"
     },
     {
         "class_id": "20240817yogasanas",
@@ -37,7 +59,8 @@
         "description": "Yogasanas are offered as a set of powerful postures to transform the body and the mind into a possibility for ultimate well-being. They are not taught merely for physical fitness and strength, but are a way of aligning the inner system to the celestial geometry, becoming in sync with the existence, thereby naturally achieving a state of health, joy and bliss.\n\"Your physical health, your psychological wellbeing, and your spiritual possibility depend on how well aligned you are with existence. Essentially, hatha yoga is towards establishing this alignment.\" - Sadhguru",
         "guidelines": "Due to the nature of the practices, we request you to maintain an empty stomach condition when you come for the session. There should be a gap of:\n-4 hours from the last full meal\n-2.5 hours from the last snack\n-1.5 hours from the last beverage (excluding water)\n\nDue to the nature of this practice, there are some precautions. People who fall under any of the below categories are not eligible to participate at this time:\n-Women who are currently pregnant\n-Anyone who has had a major open surgery in the last 6 months\n-Anyone who has had laproscopic surgery within the last 6 weeks\n\nAs a general note, always consult and follow your doctor's advice. If you have any questions regarding your participation, please contact us.",
         "prerequisites": "Anyone above 14 years of age can attend. No previous experience of yoga required.",
-        "video": "https://www.youtube.com/embed/4ZdcGKUQufU"
+        "video": "https://www.youtube.com/embed/4ZdcGKUQufU",
+        "payment_link_id": "4gwdU105T6Yn1AA147"
     },
     {
         "class_id": "20240831bhuta-shuddhi",
@@ -57,7 +80,8 @@
         "description": "Bhuta Shuddhi is the most fundamental practice in the yogic system. \"Bhuta\" refers to the five elements and \"Shuddhi\" means \"to cleanse\". This purificatory process helps one to achieve a state of harmony and balance which prepares the body for higher levels of sadhana, or spiritual practices.",
         "guidelines": "Due to the nature of the practices, we request you to maintain an empty stomach condition when you come for the session. There should be a gap of:\n-4 hours from the last full meal\n-2.5 hours from the last snack\n-1.5 hours from the last beverage (excluding water)\nAs a general note, always consult and follow your doctor's advice. If you have any questions regarding your participation, please contact us.",
         "prerequisites": "Anyone above 14 years of age can attend. No previous experience of yoga required.",
-        "video": "https://www.youtube.com/embed/hc9g8u77g24"
+        "video": "https://www.youtube.com/embed/hc9g8u77g24",
+        "payment_link_id": "6oE6rz7yl6Yn4MMfYY"
     },
     {
         "class_id": "20240921angamardana",
@@ -77,6 +101,7 @@
         "description": "In Angamardana, you use your own body weight and momentum to increase the flexibility of the muscle over a period of time. It is taught as a series of dynamic processes (7 standing, 8 squatting, 5 sitting, and 7 lying down) to invigorate the body and reach peak physical and mental health.\nIt is as effective for body building as weight training, but it does not create any unnecessary stress on the system.",
         "guidelines": "Due to the nature of the practices, we request you to maintain an empty stomach condition when you come for the session. There should be a gap of:\n-4 hours from the last full meal\n-2.5 hours from the last snack\n-1.5 hours from the last beverage (excluding water)\nAs a general note, always consult and follow your doctor's advice. If you have any questions regarding your participation, please contact us.",
         "prerequisites": "Anyone above 14 years of age can attend. No previous experience of yoga required.",
-        "video": "https://www.youtube.com/embed/9aAzFTQOJJU"
+        "video": "https://www.youtube.com/embed/9aAzFTQOJJU",
+        "payment_link_id": "8wM2bj19X96venmfZ2"
     }
 ]
