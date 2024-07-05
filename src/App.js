@@ -6,6 +6,8 @@ import Contact from './components/Contact';
 import Yoga from './components/Yoga';
 import Class from './components/Class';
 import FutureClass from './components/FutureClass'; 
+import RegistrationForm from './components/RegistrationForm';
+import CancellationPolicy from './components/CancellationPolicy';
 
 
 const App = () => {
@@ -30,6 +32,8 @@ const App = () => {
                     
                     } />
                     <Route path="/class/:class_id" element={<Class />} />
+                    <Route path="/register/:class_id" element={<RegistrationForm />} />
+                    <Route path="/cancellation" element={<CancellationPolicy />} />
                 </Routes>
             </div>
         </Router>

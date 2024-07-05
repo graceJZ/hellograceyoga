@@ -1,0 +1,26 @@
+// disclaimerText.js
+
+const disclaimerText = 
+`I understand and acknowledge that this Program includes physical yoga exercises and meditative processes that require moderate exertion and may cause or aggravate a physical injury or mental/emotional medical condition, and I represent and warrant that I am physically and mentally fit enough to participate in such a yoga program.
+
+I understand and acknowledge that I may be denied instruction or initiation in certain practices at any time during the Program based on my behavior and/or medical history, and that I may be given modifications for the practices based on my physical or mental condition or abilities.
+  
+I understand that it is my responsibility to consult with a physician, psychologist, psychiatrist, or other appropriate healthcare provider prior to and regarding my participation in the Program. If I have done so, I represent and warrant that I am following my healthcare provider’s advice. I further represent and warrant that I understand my physical limitations and that I am sufficiently self- aware to stop or modify my participation in the Program before I become injured or aggravate a pre-existing condition.
+  
+If I have a chronic,or an acute or aggravated mental health condition, including but not limited to psychotic, severe personality, anxiety or mood disorders, then I understand that I must consult with a professional mental healthcare provider before registering for or participating in the Program, and I represent and warrant that I have done so and am following my provider’s advice. I further represent and warrant that I understand the limitations of my mental health condition and that I am sufficiently self-aware to stop or modify my participation in the Program before I aggravate a pre-existing mental health condition.
+  
+I understand that any statements, stories, or testimonials presented before or during the Program do not constitute a warranty, guarantee, or prediction regarding my experience during or after the Program. Further, I understand that there is no warranty, guarantee, or prediction that I will experience any particular state of awareness or consciousness, or any particular outcome, during or after the Program.
+  
+In consideration for being permitted to participate in the Program, I agree to assume full responsibility for any risks, injuries, or damages, known or unknown, that I might incur as a result of participating in the Program.
+  
+In further consideration for being permitted to participate in the Program, I hereby knowingly, voluntarily, and expressly waive any and all claims, liabilities, demands, expenses, fees, legal actions, rights of action for damages, personal injury, mental suffering and distress, or death (“Claims”), including legal fees or expenses, that I may suffer or that my spouse, children, or unborn children may suffer in connection with my participation in the Program. I agree to indemnify, release, and hold harmless Hello Grace Yoga, including its directors, managers, teachers, instructors, presenters, facilitators, employees, agents, volunteers, and independent contractors (collectively, the “Indemnified Parties”), from and against any loss, cost, or liability incurred in defending any Claim made by me or anyone making a Claim on my behalf, even if the Claim is alleged to or did result from the negligence of any of the Indemnified Parties or anyone else.
+  
+To the full extent permitted by law, I and my heirs or legal representatives forever release, waive, discharge, and covenant not to sue any of the Indemnified Parties for any Claim caused by any negligence or other acts of the Indemnified Parties.
+
+This agreement shall be construed in accordance with and governed by the laws of the Commonwealth of Pennsylvania and the United States of America. If any provision of this agreement is held to be invalid, illegal, or unenforceable, it shall not affect any other provision of this agreement, and this agreement shall be construed as if such provision had never been contained herein.
+
+As a condition of my participation in the Program, I agree that any dispute related to my registration for or participation in the Program, including without limitation Claims for negligence, breach of contract, fraud, intentional torts, or any other acts or omissions of the Indemnified Parties, shall be resolved by confidential, binding arbitration conducted by JAMS in a virtual format or at the nearest JAMS Resolution Center, using a single arbitrator, in accordance with JAMS Arbitration Rules and Procedures (or any successor rules and procedures) then in effect. The arbitration award shall be final and binding on both parties, shall not be subject to de novo review, and no appeal may be taken. The ruling of the arbitrator may be entered and enforced as a judgment by a court of competent jurisdiction. Any court of competent jurisdiction may enforce the arbitration provision of this agreement, and the parties shall bear their own costs, fees, and expenses associated with its enforcement. I acknowledge and agree that this agreement to arbitrate shall result in a waiver of my rights to a court or jury trial for any Claim that I may assert.`
+;
+
+export default disclaimerText;
+

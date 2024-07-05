@@ -6,6 +6,7 @@ import './Class.css'; // Import the CSS file
 const Class = () => {
     const [classInfo, setClassInfo] = useState(null);
     const { class_id } = useParams();
+    const registerLink = `/#/register/${class_id}`;
 
     useEffect(() => {
         const fetchData = async () => {
@@ -109,7 +110,8 @@ const Class = () => {
                     <p><FaEnvelope className="icon" /> <a href={`mailto:${email}`}>{email}</a></p>
 
                     <p><FaDollarSign className="icon" /> {fee}</p>
-                    <button className="register-button">Register</button>
+                    <a className="register-button" href={registerLink} target="_blank" rel="noopener noreferrer">Register</a>
+                    
                 </div>
             </div>
         </div>

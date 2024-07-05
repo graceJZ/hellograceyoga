@@ -1,0 +1,24 @@
+.cancellation{
+    width : 70%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.cancellation h1{
+    color: #006d6a;
+    text-align: center;
+}
+
+.cancellation-detail{
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.cancellation-detail li{
+    margin: 1em 0;
+    font-size: 1.2em;
+    font-weight: bold;
+    
+}

@@ -25,6 +25,11 @@
 
 }
 
+.error {
+  color: red;
+  font-size: 0.5rem;
+}
+
 .contact-info {
   display: flex;
   flex-direction: column;
