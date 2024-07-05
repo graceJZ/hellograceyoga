@@ -146,9 +146,9 @@ img {
     margin: 20px auto 0; /* Center horizontally */
     padding: 10px 20px;
     font-size: 16px;
-    color: #fff;
-    background-color: #006d6a; /* Dark teal color */
-    border: none;
+    color: #006d6a;
+    background-color:#e6f2f2 ; /* Dark teal color */
+    border: 2px solid #006d6a;
     border-radius: 5px;
     cursor: pointer;
     text-align: center;
@@ -156,5 +156,5 @@ img {
 }
 
 .register-button:hover {
-    background-color: #004f4d;
+    background-color:#006d6a;
 }

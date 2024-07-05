@@ -1,5 +1,5 @@
 .cancellation{
-    width : 70%;
+    width : 80%;
     display: block;
     margin-left: auto;
     margin-right: auto;
@@ -18,7 +18,7 @@
 
 .cancellation-detail li{
     margin: 1em 0;
-    font-size: 1.2em;
+    font-size: 1.1em;
     font-weight: bold;
     
 }
