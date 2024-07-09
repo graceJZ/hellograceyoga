@@ -1,7 +1,7 @@
 .intro-section {
   height: 90vh;
   width: 90%;
-  margin: 0 auto; /* Center the element */
+  margin: 20px auto; /* Center the element */
   background-size: cover;
   background-position: center;
   display: flex;
@@ -11,6 +11,7 @@
   position: relative;
   border-radius: 10px;
   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  padding: 50px 20px;
 }
   
   .overlay {

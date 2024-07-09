@@ -110,7 +110,7 @@ const Class = () => {
                     <p><FaEnvelope className="icon" /> <a href={`mailto:${email}`}>{email}</a></p>
 
                     <p><FaDollarSign className="icon" /> {fee}</p>
-                    <a className="register-button" href={registerLink} target="_blank" rel="noopener noreferrer">Register</a>
+                    <a className="register-button" href={registerLink}>Register</a>
                     
                 </div>
             </div>

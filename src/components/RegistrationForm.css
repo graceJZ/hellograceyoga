@@ -1,6 +1,8 @@
 /* Add this to your RegistrationForm.css */
 .class-registration {
-  margin: 25px 10%;
+  background: #f9f9f9;
+  margin: 0px 20px;
+  padding: 20px;
 }
 
 .custom-form {

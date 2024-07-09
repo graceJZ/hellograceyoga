@@ -5,6 +5,7 @@ import './CancellationPolicy.css';
 
 const CancellationPolicy = () => {
   return (
+  <div className='policy'> 
 	<div className="cancellation">
 	  <h1>Cancellation Policy</h1>
       <div className="cancellation-detail">
@@ -19,6 +20,7 @@ const CancellationPolicy = () => {
 
       </div>
 	</div>
+  </div> 
   );
 };
 

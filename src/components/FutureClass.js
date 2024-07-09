@@ -22,7 +22,7 @@ const FutureClass = () => {
   };
 
   return (
-    <div className="class-offerings">
+    <div id= "future-class" className="class-offerings">
       <h2>Upcoming Classes</h2>
       <div className="class-grid">
         {classes.map(cls => (
