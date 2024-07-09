@@ -1,9 +1,8 @@
 .yoga-class{
-    width : 75%;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    text-align: center;
+        padding: 50px 20px;
+        margin: 0 20px; /* Add this line */
+        display: block;
+        background: #f9f9f9;
 }
 .yoga-class h1{
     color: #006d6a;
@@ -13,6 +12,7 @@
 
 .yoga-class h4{
     color: gray;
+    text-align: center;
 
 }
 
@@ -24,7 +24,7 @@
 
 .container {
     display: grid;
-    grid-template-columns: 1fr 350px; /* Main content on the left, fixed width on the right */
+    grid-template-columns: 0.6fr 0.4fr; /* Main content on the left, fixed width on the right */
     gap: 20px; /* Space between the columns */
     padding: 20px;
 }
@@ -48,8 +48,6 @@
     padding: 20px;
     border-radius: 8px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-
-    top: 20px;
     min-width: 300px;
 }
 
@@ -61,17 +59,19 @@
         align-items: center; /* Center items horizontally */
     }
 
+    .yoga-details {
+        order: -1; /* Ensure .yoga-details is below .class-details */
+        align-items: center;
+    }
+
     .class-details {
-        order: -1; /* Move .class-details to the top */
+        order: 0; /* Move .class-details to the top */
         position: static; /* Remove the sticky positioning */
         margin-bottom: 20px; /* Add some space between the sections */
         align-items: center;
     }
 
-    .yoga-details {
-        order: 0; /* Ensure .yoga-details is below .class-details */
-        align-items: center;
-    }
+   
 }
 
 .class-details h1 {

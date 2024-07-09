@@ -28,8 +28,6 @@
       grid-template-columns: repeat(4, 1fr);
     }
   }
-
-
   
   .class-card {
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);

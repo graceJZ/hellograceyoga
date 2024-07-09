@@ -35,6 +35,7 @@ const Yoga = () => {
     }
 
     return (
+        <div className="yoga">
         <div className="yoga-module">
 
             <div className="module-container">
@@ -72,6 +73,7 @@ const Yoga = () => {
                     ></iframe>
                 </div>
             )}
+        </div>
         </div>
 
     );

@@ -8,6 +8,7 @@ import Class from './components/Class';
 import FutureClass from './components/FutureClass'; 
 import RegistrationForm from './components/RegistrationForm';
 import CancellationPolicy from './components/CancellationPolicy';
+import Event from './components/Event';
 
 
 const App = () => {
@@ -32,6 +33,12 @@ const App = () => {
                     
                     } />
                     <Route path="/class/:class_id" element={<Class />} />
+                    <Route path="/event/:event_id" element={
+                        <>
+                        <Event />
+                        <FutureClass/>
+                        </>
+                        } />
                     <Route path="/register/:class_id" element={<RegistrationForm />} />
                     <Route path="/cancellation" element={<CancellationPolicy />} />
                 </Routes>

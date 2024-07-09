@@ -1,8 +1,17 @@
 /* Yoga.css */
-.yoga-module {
-    padding: 20px;
-    max-width: 900px;
-    margin: 0 auto;
+.yoga {
+    padding: 50px 20px;
+    margin: 0 20px; /* Add this line */
+    background: #f9f9f9;
+    display: flex; /* Enables Flexbox */
+    justify-content: center; /* Center horizontally */
+    align-items: center; /* Center vertically */
+   
+    
+}
+
+.yoga-module{
+    max-width: 900px;    
 }
 
 .yoga-module img {
@@ -11,6 +20,7 @@
     display: block;
     margin: auto;
     padding: 1%; /* Adjust the padding as needed */
+    border-radius: 5%;
 }
 
 .yoga-module h1 {
@@ -60,6 +70,7 @@
     display: flex;
     justify-content: center;
     margin-top: 40px;
+    border-radius: 2%;
 }
 
 .video-container iframe {
