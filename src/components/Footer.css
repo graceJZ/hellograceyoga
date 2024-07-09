@@ -53,12 +53,12 @@
     .footer-image-square {
         padding: 20px;
     }
-
+    .footer-image-wide img,
     .footer-image-square img {
-        max-height: 100px;
+        max-height: 85px;
     }
 
     .footer-image-square p {
-        font-size: 1.4em;
+        font-size: 1.2em;
     }
 }
