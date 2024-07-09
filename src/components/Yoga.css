@@ -1,6 +1,6 @@
 /* Yoga.css */
 .yoga {
-    padding: 50px 20px;
+    padding: 20px 20px;
     margin: 0 20px; /* Add this line */
     background: #f9f9f9;
     display: flex; /* Enables Flexbox */
