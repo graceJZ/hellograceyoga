@@ -105,25 +105,25 @@
         "payment_link_id": "fZeg29g4RbeD9327su"
     },
     {
-        "class_id": "20240914surya-kriya",
+        "class_id": "20240915surya-kriya-review",
         "yoga_id": "surya-kriya",
-        "name": "Surya Kriya",
-        "start_date": "2024-09-14T12:00:00Z",
-        "end_date": "2024-09-15T00:00:00Z",
-        "sessions": "Sat, Sep 14th, 8:00 AM - 11:30 AM\nSat, Sep 14th, 4:30 PM - 8:00 PM",
+        "name": "Surya Kriya Review",
+        "start_date": "2024-09-15T13:00:00Z",
+        "end_date": "2024-09-16T00:00:00Z",
+        "sessions": "Sun, Sep 15th, 9:00 AM - 11:30 AM",
         "street_1": "51 Midway Dr",
         "street_2": null,
         "city": "Mc Kees Rocks",
         "state": "Pennsylvania",
         "zipcode": "15136",
-        "fee": 225,
+        "fee": 50,
         "phone": "412-862-5007",
         "email": "info@hellograceyoga.com",
         "description": "Traditionally available only to select groups of yogis, Surya Kriya is being offered by Sadhguru as a comprehensive spiritual practice that is ideal for the hectic pace of today's world.\n\n\"Surya\" means \"sun\", and \"Kriya\" means \"inner energy process\". It is a gentle, slow-paced, 21-step process and is a way of aligning yourself with the sun, the basic powerhouse for this planet. All life on this planet is solar powered, including yourself.\n\nSurya Kriya is an ancient, potent yogic practice that raises the solar heat in the system. It also balances your energy channels, leading to stability of the body and stillness of the mind.",
         "guidelines": "Due to the nature of the practices, we request you to maintain an empty stomach condition when you come for the session. There should be a gap of:\n-4 hours from the last full meal\n-2.5 hours from the last snack\n-1.5 hours from the last beverage (excluding water)\n\nDue to the nature of this practice, there are some precautions. People who fall under any of the below categories are not eligible to participate at this time:\n-Women who are currently pregnant\n-Anyone who has had a major open surgery in the last 6 months\n-Anyone who has had laproscopic surgery within the last 6 weeks\n\nAs a general note, always consult and follow your doctor's advice. If you have any questions regarding your participation, please contact us.",
-        "prerequisites": "Anyone above 14 years of age can attend. No previous experience of yoga required.",
+        "prerequisites": "This class is designed for individuals who have previously learned Surya Kriya. It is ideal for those looking to deepen and refine their existing practice or to resume after a gap.",
         "video": "https://www.youtube.com/embed/_wq-OiPk-pU",
-        "payment_link_id": "fZeg29g4RbeD9327su"
+        "payment_link_id": "28o9DLdWJ4Qf0ww005"
     },
     {
         "class_id": "20240921angamardana",
@@ -145,5 +145,27 @@
         "prerequisites": "Anyone above 8 years of age can attend. No previous experience of yoga required.",
         "video": "https://www.youtube.com/embed/9aAzFTQOJJU",
         "payment_link_id": "8wM2bj19X96venmfZ2"
+    }
+    ,
+    {
+        "class_id": "20240929angamardana-review",
+        "yoga_id": "angamardana",
+        "name": "Angamardana Review",
+        "start_date": "2024-09-29T12:00:00Z",
+        "end_date": "2024-09-30T00:00:00Z",
+        "sessions": "Sun, Sep 29th, 8:00 AM - 11:30 AM",
+        "street_1": "51 Midway Dr",
+        "street_2": null,
+        "city": "Mc Kees Rocks",
+        "state": "Pennsylvania",
+        "zipcode": "15136",
+        "fee": 75,
+        "phone": "412-862-5007",
+        "email": "info@hellograceyoga.com",
+        "description": "In Angamardana, you use your own body weight and momentum to increase the flexibility of the muscle over a period of time. It is taught as a series of dynamic processes (7 standing, 8 squatting, 5 sitting, and 7 lying down) to invigorate the body and reach peak physical and mental health.\nIt is as effective for body building as weight training, but it does not create any unnecessary stress on the system.",
+        "guidelines": "Due to the nature of the practices, we request you to maintain an empty stomach condition when you come for the session. There should be a gap of:\n-4 hours from the last full meal\n-2.5 hours from the last snack\n-1.5 hours from the last beverage (excluding water)\nAs a general note, always consult and follow your doctor's advice. If you have any questions regarding your participation, please contact us.",
+        "prerequisites": "This class is designed for individuals who have previously learned Angamardana. It is ideal for those looking to deepen and refine their existing practice or to resume after a gap.",
+        "video": "https://www.youtube.com/embed/9aAzFTQOJJU",
+        "payment_link_id": "dR66rz2e196v5QQ6ou"
     }
 ]
