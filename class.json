@@ -256,4 +256,26 @@
         "video": "https://www.youtube.com/embed/_wq-OiPk-pU",
         "payment_link_id": "fZeg29g4RbeD9327su"
     }
+    ,
+    {
+        "class_id": "20250126angamardana-review",
+        "yoga_id": "angamardana",
+        "name": "Angamardana Review",
+        "start_date": "2025-01-26T12:00:00Z",
+        "end_date": "2025-01-27T00:00:00Z",
+        "sessions": "Sun, Jan 26th, 8:00 AM - 11:30 AM",
+        "street_1": "51 Midway Dr",
+        "street_2": null,
+        "city": "Mc Kees Rocks",
+        "state": "Pennsylvania",
+        "zipcode": "15136",
+        "fee": 75,
+        "phone": "412-862-5007",
+        "email": "info@hellograceyoga.com",
+        "description": "In Angamardana, you use your own body weight and momentum to increase the flexibility of the muscle over a period of time. It is taught as a series of dynamic processes (7 standing, 8 squatting, 5 sitting, and 7 lying down) to invigorate the body and reach peak physical and mental health.\nIt is as effective for body building as weight training, but it does not create any unnecessary stress on the system.",
+        "guidelines": "Due to the nature of the practices, we request you to maintain an empty stomach condition when you come for the session. There should be a gap of:\n-4 hours from the last full meal\n-2.5 hours from the last snack\n-1.5 hours from the last beverage (excluding water)\nAs a general note, always consult and follow your doctor's advice. If you have any questions regarding your participation, please contact us.",
+        "prerequisites": "This class is designed for individuals who have previously learned Angamardana. It is ideal for those looking to deepen and refine their existing practice or to resume after a gap.",
+        "video": "https://www.youtube.com/embed/9aAzFTQOJJU",
+        "payment_link_id": "dR66rz2e196v5QQ6ou"
+    }
 ]
