@@ -11,7 +11,9 @@ const FutureClass = () => {
       .then(response => response.json())
       .then(data => {
         const currentDate = new Date();
-        const futureClasses = data.filter(cls => new Date(cls.start_date) > currentDate);
+        const futureClasses = data
+          .filter(cls => new Date(cls.start_date) > currentDate)
+          .sort((a, b) => new Date(a.start_date) - new Date(b.start_date));
         setClasses(futureClasses);
       })
       .catch(error => console.error('Error fetching the classes:', error));
