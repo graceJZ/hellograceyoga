@@ -20,7 +20,27 @@
         "video": "https://www.youtube.com/embed/tVZcK9pjI9I",
         "payment_link_id": "eVa6rz5qd3Mbdji8wx"
     },
-
+    {
+        "class_id": "20251207jala-neti",
+        "yoga_id": "jala-neti",
+        "name": "Jala Neti",
+        "start_date": "2025-12-07T15:00:00Z",
+        "end_date": "2025-12-07T15:45:00Z",
+        "sessions": "Sun, Dec 07th, 11:00 AM - 11:45 AM",
+        "street_1": "49 Midway Dr",
+        "street_2": null,
+        "city": "Mc Kees Rocks",
+        "state": "Pennsylvania",
+        "zipcode": "15136",
+        "fee": 65,
+        "phone": "412-862-5007",
+        "email": "info@hellograceyoga.com",
+        "description": "Jala Neti is a simple but effective process of cleansing the nasal passages with salt water using a copper Jala Neti pot designed by Sadhguru. The process makes breathing easier by helping air enter the lungs unimpeded by mucus and dirt which easily builds up during the day.",
+        "guidelines": "Due to the nature of the practices, we request you to maintain an empty stomach condition when you come for the session. There should be a gap of:\n-4 hours from the last full meal\n-2.5 hours from the last snack\n-1.5 hours from the last beverage (excluding water)\n\nDue to the nature of this practice, there are some precautions. People who fall under any of the below categories are not eligible to participate at this time:\n-Women who are currently pregnant\nAnyone who has had a major open surgery in the last 6 months\nAnyone who has had laproscopic surgery within the last 6 weeks\n\nAs a general note, always consult and follow your doctor's advice. If you have any questions regarding your participation, please contact us.",
+        "prerequisites": "Anyone above 14 years of age can attend. No previous experience of yoga required.",
+        "video": "https://www.youtube.com/embed/w9zFdObjkOk",
+        "payment_link_id": "eVq8wOfSJ66zd21cOF7IY08"
+    },
     {
         "class_id": "20251207bhuta-shuddhi",
         "yoga_id": "bhuta-shuddhi",
@@ -41,8 +61,7 @@
         "prerequisites": "Anyone above 14 years of age can attend. No previous experience of yoga required.",
         "video": "https://www.youtube.com/embed/hc9g8u77g24",
         "payment_link_id": "6oE6rz7yl6Yn4MMfYY"
-    }
-     ,
+    },
     {
         "class_id": "20240921angamardana",
         "yoga_id": "angamardana",
@@ -63,8 +82,7 @@
         "prerequisites": "Anyone above 8 years of age can attend. No previous experience of yoga required.",
         "video": "https://www.youtube.com/embed/9aAzFTQOJJU",
         "payment_link_id": "8wM2bj19X96venmfZ2"
-    }
-    ,
+    },
     {
         "class_id": "20240929angamardana-review",
         "yoga_id": "angamardana",
@@ -85,8 +103,7 @@
         "prerequisites": "This class is designed for individuals who have previously learned Angamardana. It is ideal for those looking to deepen and refine their existing practice or to resume after a gap.",
         "video": "https://www.youtube.com/embed/9aAzFTQOJJU",
         "payment_link_id": "dR66rz2e196v5QQ6ou"
-    }
-    ,
+    },
     {
         "class_id": "20251206surya-kriya",
         "yoga_id": "surya-kriya",
@@ -107,8 +124,7 @@
         "prerequisites": "Anyone above 14 years of age can attend. No previous experience of yoga required.",
         "video": "https://www.youtube.com/embed/_wq-OiPk-pU",
         "payment_link_id": "5kQbJ08qh7aD5zzeWN7IY09"
-    }
-    ,
+    },
     {
         "class_id": "20240915surya-kriya-review",
         "yoga_id": "surya-kriya",
@@ -129,8 +145,7 @@
         "prerequisites": "This class is designed for individuals who have previously learned Surya Kriya. It is ideal for those looking to deepen and refine their existing practice or to resume after a gap.",
         "video": "https://www.youtube.com/embed/_wq-OiPk-pU",
         "payment_link_id": "28o9DLdWJ4Qf0ww005"
-    }
-    ,
+    },
     {
         "class_id": "20251011yogasanas",
         "yoga_id": "yogasanas",

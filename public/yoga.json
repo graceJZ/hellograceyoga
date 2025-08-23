@@ -9,13 +9,13 @@
         "image_url": "https://raw.githubusercontent.com/graceJZ/hellograceimages/main/1.UpaYoga.jpeg"
     },
     {
-        "yoga_id": "surya-kriya",
-        "name": "Surya Kriya",
-        "tagline": "Meditation in Motion, an Ancient and Potent Yogic Practice",
-        "description": "Surya Kriya is a potent yogic practice of tremendous antiquity, designed as a holistic process for health, wellness, and complete inner wellbeing. “Surya” means “sun,” and “kriya” means “inner energy process.” Surya Kriya activates the solar plexus to raise the samat prana, or solar heat, in the system. It also balances a person’s left and right energy channels, leading to stability of the body and stillness of the mind. This strong foundation becomes the basis to explore higher dimensions of life.\n\nTraditionally available only to select groups of yogis, Surya Kriya is being offered by Sadhguru as a comprehensive spiritual practice that is ideal for the hectic pace of today’s world.",
-        "video": "https://www.youtube.com/embed/_wq-OiPk-pU",
-        "benefits": "Develops mental clarity and focus\nRemedies weak constitutions\nBoosts vigor and vitality\nBalances hormonal levels in the body\nPrepares one for deeper states of meditation",
-        "image_url": "https://raw.githubusercontent.com/graceJZ/hellograceimages/main/4.SuriyaKriya.jpg"
+        "yoga_id": "jala-neti",
+        "name": "Jala Neti",
+        "tagline": "Cleansing Yoga, Purification of the Nasal Passages",
+        "description": "Jala Neti is a simple but effective process of cleansing the nasal passages with salt water using a copper Jala Neti pot designed by Sadhguru. The process makes breathing easier by helping air enter the lungs unimpeded by mucus and dirt which easily builds up during the day.",
+        "video": "https://www.youtube.com/embed/w9zFdObjkOk",
+        "benefits": "Prevents and helps with respiratory tract diseases like asthma, pneumonia and bronchitis.\nRelieves cold, allergies and sinusitis.\nCalms and activates the nervous system.\nRemoves excess mucus and pollutants from nasal passages and sinuses.\nGets rid of insomnia, tiredness and improves quality of sleep.\nHelps with diseases of eyes, nose, throat, tonsillitis, allergic rhinitis, hay fever.\nRelieves migraine, headaches, anxiety, stress and brings tranquility. Helps with epilepsy.",
+        "image_url": "https://raw.githubusercontent.com/graceJZ/hellograceimages/main/JalaNeti.jpg"
     },
     {
         "yoga_id": "bhuta-shuddhi",
@@ -34,6 +34,15 @@
         "video": "https://www.youtube.com/embed/9aAzFTQOJJU",
         "benefits": "Strengthening the spine, skeletal and muscular systems\nBuilding physical strength and fitness\nInvigorating the body, bringing a sense of lightness and freedom\nPreparing the body for hatha yoga",
         "image_url": "https://raw.githubusercontent.com/graceJZ/hellograceimages/main/3.Angarmadana.jpg"
+    },
+    {
+        "yoga_id": "surya-kriya",
+        "name": "Surya Kriya",
+        "tagline": "Meditation in Motion, an Ancient and Potent Yogic Practice",
+        "description": "Surya Kriya is a potent yogic practice of tremendous antiquity, designed as a holistic process for health, wellness, and complete inner wellbeing. “Surya” means “sun,” and “kriya” means “inner energy process.” Surya Kriya activates the solar plexus to raise the samat prana, or solar heat, in the system. It also balances a person’s left and right energy channels, leading to stability of the body and stillness of the mind. This strong foundation becomes the basis to explore higher dimensions of life.\n\nTraditionally available only to select groups of yogis, Surya Kriya is being offered by Sadhguru as a comprehensive spiritual practice that is ideal for the hectic pace of today’s world.",
+        "video": "https://www.youtube.com/embed/_wq-OiPk-pU",
+        "benefits": "Develops mental clarity and focus\nRemedies weak constitutions\nBoosts vigor and vitality\nBalances hormonal levels in the body\nPrepares one for deeper states of meditation",
+        "image_url": "https://raw.githubusercontent.com/graceJZ/hellograceimages/main/4.SuriyaKriya.jpg"
     },
     {
         "yoga_id": "yogasanas",
