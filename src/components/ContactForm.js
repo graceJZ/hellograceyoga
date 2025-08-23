@@ -51,9 +51,8 @@ const ContactForm = () => {
     e.preventDefault();
 
     const isEmailValid = validateEmail(formData.email);
-    const isPhoneValid = validatePhone(formData.phone);
 
-    if (!isEmailValid || !isPhoneValid) {
+    if (!isEmailValid) {
       return; // Prevent form submission if email or phone is invalid
     }
 
@@ -91,13 +90,12 @@ const ContactForm = () => {
         {emailError && <p className="error">{emailError}</p>}
       </div>
       <div className="form-group">
-        <label>Phone (required):</label>
+        <label>Phone:</label>
         <input
           type="tel"
           name="phone"
           value={formData.phone}
           onChange={handleChange}
-          required
         />
         {phoneError && <p className="error">{phoneError}</p>}
       </div>
