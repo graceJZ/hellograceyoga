@@ -168,11 +168,11 @@
         "payment_link_id": "4gwdU105T6Yn1AA147"
     },
     {
-        "class_id": "20251019yogasanas-advanced",
+        "class_id": "20260502yogasanas-advanced",
         "yoga_id": "yogasanas",
         "name": "Yogasanas Advanced",
-        "start_date": "2026-05-02T12:00:00Z",
-        "end_date": "2026-05-03T16:00:00Z",
+        "start_date": "2026-05-02T15:00:00Z",
+        "end_date": "2026-05-03T22:00:00Z",
         "sessions": "Sat, May 2nd, 3:00 PM - 6:00 PM\nSun, May 3rd, 3:00 PM - 6:00 PM",
         "street_1": "49 Midway Dr",
         "street_2": null,
